@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Shopping_Cart
 {
-    class Product
+    class Product 
     {
         public string Name { get; set; }
         public double Price { get; set; }
